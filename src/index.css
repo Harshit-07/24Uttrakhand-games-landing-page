@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Paris 2024";
+  src: url("../public/fonts/Paris2024.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
